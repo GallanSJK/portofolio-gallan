@@ -56,7 +56,7 @@
                         <div class="hero-content">
                             <div class="hero-text">
                                 <p>I'm</p>
-                                <h1>RAHMAT</h1>
+                                <h1>Gallan Stefan Jaya Kelana</h1>
                                 <h2></h2>
                                 <div class="typed-text">Web Designer, Web Developer, Front End Developer, Back End Developer, Apps Designer, Apps Developer</div>
                             </div>
