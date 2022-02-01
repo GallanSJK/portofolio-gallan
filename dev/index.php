@@ -423,7 +423,7 @@
             <div class="container-fluid">
                 <div class="container">
                     <div class="footer-info">
-                        <h2>RAHMAT</h2>
+                        <h2>Gallan Stefan Jaya Kelana</h2>
                         <h3>Bukit Gading Cisoka, Tangerang, IND</h3>
                         <div class="footer-menu">
                             <p>+62 822 6064 6099</p>
